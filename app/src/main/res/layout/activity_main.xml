@@ -6,7 +6,7 @@
     android:padding="16dp"
     android:background="@drawable/background_image">
 
-    <!-- TextView centered horizontally and vertically -->
+    
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
@@ -21,7 +21,7 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintVertical_bias="0.3" />
 
-    <!-- ImageView centered horizontally and vertically -->
+   
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
